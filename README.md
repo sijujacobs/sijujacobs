@@ -3,11 +3,6 @@
 
 ---
 
-## 🌐 Portfolio  
-Check out my personal site here:  
-[https://sijujacobs.github.io/sijujacob/](https://sijujacobs.github.io/sijujacob/)
-
----
 
 ## 🧠 About Me  
 - Passionate about front-end development and web technologies like StencilJS, React, Vue, Storybook, Typescript, JavaScript, AngularJS and more :contentReference[oaicite:1]{index=1}  
@@ -45,6 +40,12 @@ Feel free to reach out if you’d like to connect or collaborate:
 - 🌍 Portfolio: [sijujacobs.github.io/sijujacob](https://sijujacobs.github.io/sijujacob/)  
 - 📧 *Add your email address here (optional)*  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/siju-jacob-61ab54b8/)
+- 
+## 🌐 Portfolio  
+Check out my personal site here:  
+[https://sijujacobs.github.io/sijujacob/](https://sijujacobs.github.io/sijujacob/)
+
+---
 
 ---
 
